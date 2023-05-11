@@ -6,7 +6,7 @@ import Footer from "../components/Footer"
 export default function Home() {
   return (
     <>
-      <div className="flex items-center">
+      <div className="sm:flex items-center">
         <Image
           className="rounded-full border-4 border-slate-400 mt-6 ml-6"
           src={data.photo}
