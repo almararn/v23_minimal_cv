@@ -1,0 +1,37 @@
+{
+  "name": "Almar Örn Arnþórsson",
+  "funfact": "Námsferill í Forritun við NTV",
+  "photo": "/photo4.jpg",
+  "cv": [
+    {
+      "id": 1,
+      "title": "Forritun aukaönn - React",
+      "date": "Vorönn 2023",
+      "description": "Aukaönn í forritun til þess að fá að kynnast React og Tailwind."
+    },
+    {
+      "id": 2,
+      "title": "Forritun 3. önn",
+      "date": "Haustönn 2022",
+      "description": "Á þriðju og síðustu önninni er farið meira í bakenda forritun. Nemendur læra uppsetningu gagnvirks vefjar á vefþjón. Farið er í varðveislu gagna, notkun gagnasniðs (e. data format) og þáttun (e. parsing) þeirra í vef. Nemendur vinna að gerð vefja og/eða snjallsímaforrita með gagnagrunni. Þriðja önnin er framhald af 1. og 2. önn á henni er lögð áhersla á föll/aðferðir og hlutbundna forritun."
+    },
+    {
+      "id": 3,
+      "title": "Forritun 2. önn",
+      "date": "Haustönn 2021",
+      "description": "Á annarri önn læra nemendur að hanna skýjalausnir og bæta við þekkingu fyrri annar. Nemendur læra að forrita kerfi sem eru með viðmót í vafra og eru þ.a.l. ekki bundin við ákveðin stýrikerfi og henta m.a. fyrir snjalltæki. Þetta er vinsælasta leiðin fyrir nýjar hugbúnaðarlausnir."
+    },
+    {
+      "id": 4,
+      "title": "Forritun 1. önn",
+      "date": "Vorönn 2021",
+      "description": "Forritunarbrautin er fyrir alla sem hafa áhuga á að starfa við forritun. Fyrsta önnin er jafnframt gagnleg fyrir kerfisstjóra sem vilja gera einfaldari forrit. Námið er þannig sett upp að fyrsti hluti námsins er grunnur í forritun og Flutter. Nemendur geta svo haldið áfram námi á forritunarbrautinni."
+    },
+    {
+      "id": 5,
+      "title": "WordPress",
+      "date": "Haustönn 2020",
+      "description": "Fyrir alla sem vilja læra að setja skipulega upp vefsíðu og þá sem vilja öðlast góðan grunnskilning á uppsetningu og umsjón heimasíðu. Námskeiðin eru byggð þannig upp að þátttakendur þurfa ekki að hafa mikinn grunn eða kunnáttu í vefsíðugerð en gott tölvulæsi er mjög mikilvægt. Námskeiðið eru einkar verkefnamiðað og þátttakendur byrja strax að setja upp vefsíðu."
+    }
+  ]
+}
