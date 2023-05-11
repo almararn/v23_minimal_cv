@@ -16,6 +16,7 @@ export default function Home() {
           priority={true}
         />
         <div className="pl-8 pt-6 font-poppins">
+        <h1>*** FORCE VERCEL REBUILD ***</h1>
           <h1 className="text-4xl font-semibold drop-shadow-lg text-red-600 pr-4">
             {data.name}
           </h1>
