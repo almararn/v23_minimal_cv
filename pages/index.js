@@ -22,20 +22,15 @@ export default function Home() {
           <h2 className="text-slate-200 text-lg drop-shadow-lg pr-4">
             {data.funfact}
           </h2>
-          <div className="mr-4">
-            <div className="w-full h-1 bg-slate-400 rounded-xl mt-2" />
+          <div className="mr-8 sm:mr-4 mt-4 sm:mt-2">
+            <div className="w-full h-1 bg-slate-400 rounded-xl" />
           </div>
         </div>
       </div>
       <div className="mx-14 mt-12 mb-10 font-poppins">
         {data.cv.map((cv) => (
-          <Cv
-            title={cv.title}
-            description={cv.description}
-            date={cv.date}
-            key={cv.id}
-          ></Cv>
-        ))}
+          <Cv key={cv.id} {...cv} ></Cv>
+        ))} 
       </div>
       <Footer />
     </>
